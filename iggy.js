@@ -46,12 +46,12 @@ function content() {
   let title = 'Happy Birthday Iggy!';
   fill(0);
   textSize(15);
-  text(title, 185, 250, 150, 150); 
+  text(title, 185, 260, 160, 150); 
   
   let content = 'Dear Iggy, thank you for being a wonderful friend. I am grateful to have some I can talk about Phoenix Wright with. You deserve endless happiness. - Karni';
   fill(0);
   textSize(12);
-  text(content, 235, 300, 120, 150); 
+  text(content, 235, 290, 120, 150); 
   
   image(img, 140, 285, 100, 100);
 }
